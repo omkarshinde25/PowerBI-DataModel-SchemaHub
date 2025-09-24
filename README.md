@@ -1,4 +1,4 @@
-# Power BI Project: Data Modeling, Schema, and Relationships
+# Power BI Project: PowerBI DataModel & SchemaHub
 
 ## Project Overview
 This project demonstrates effective data modeling practices in Power BI using different schema designs (Star Schema, Snowflake Schema) and illustrates both active and inactive relationships.
@@ -45,11 +45,3 @@ Models where tables may have multiple relationships (e.g., OrderDate and StockDa
 3. Use Power BI visualizations to analyze and report on your data.
 4. When using inactive relationships, activate them in DAX as needed.
 
-## Diagrams
-See the attached images for:
-- Star Schema structure
-- Snowflake Schema structure
-- Examples of active and inactive relationships
-
-## License
-This project is open-source and free to use for educational purposes.
