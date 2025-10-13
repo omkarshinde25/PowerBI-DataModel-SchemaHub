@@ -20,7 +20,7 @@ Central fact table (`student`) connected to dimension tables (`department`, `off
   - Library (Book Name, Lab ID)
   - Canteen (Canteen id, Menu)
 
-## Star Schema Diagram
+### Star Schema Diagram
 
 <img src="https://github.com/omkarshinde25/PowerBI-DataModel-SchemaHub/blob/main/Pictures/Star%20Schema.PNG" width="800" />
 
@@ -35,7 +35,7 @@ Normalized version of the star schema, where dimensions are split into related t
   - Location (lid, lname)
   - Date (dates)
 
-## Snowflake Schema Diagram
+### Snowflake Schema Diagram
 
 <img src="https://github.com/omkarshinde25/PowerBI-DataModel-SchemaHub/blob/main/Pictures/Snowflake%20Schema.PNG" width="800" />
 
